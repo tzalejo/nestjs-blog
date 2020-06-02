@@ -15,7 +15,7 @@ export class DataBaseConnectionSerice implements TypeOrmOptionsFactory {
       synchronize: true,
       dropSchema: false,
       logging: true,
-      entities: ['dist/**/*.entity{.ts,.js}']
+      entities: ['dist/**/*.entity.js']
     };
   }
   

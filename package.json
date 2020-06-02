@@ -1,8 +1,8 @@
 {
   "name": "nest-blog",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Node, NestJs, Postgres, TypeScript",
+  "author": "Alandro Valenzuela",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
